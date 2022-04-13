@@ -1,0 +1,37 @@
+.account-nav_avatar_1P49z user-avatar_user-thumbnail_jSYS1{
+  display: none;
+}
+
+.link ideas li{display:none;}
+
+#profile-avatar{
+display: block;
+}
+
+.lazy image img{
+border-radius: 15px;
+}
+
+.thumbnail-image img{
+border-radius: 15px;
+}
+
+#navigation{
+position: absolute;
+}
+
+#navigation .inner .mystuff{
+display: inline-block;
+}
+
+.avatar{
+  display: none;
+}
+
+.user-icon{
+  display: none;
+}
+
+activity-img img{
+border-radius:5px;
+}
